@@ -7,7 +7,7 @@
   - strongly related to C/C++, Python, Deep learning
   - also interested in C#, Javascript, SQL, HTML  
   
-  
+---
 ![lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hgstyler&show_icons=true&hide_border=true&layout=compact)
 <!--
 ![activity](https://github-readme-stats.vercel.app/api?username=hgstyler&show_icons=true&hide_border=true)
