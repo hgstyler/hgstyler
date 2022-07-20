@@ -5,10 +5,9 @@
   - Microscopy, Chromatography, Spectroscopy, X-ray
 + Computer Science
   - strongly related to C/C++, Python, Deep learning
-  - also interested in C#, Javascript, SQL, HTML  
-  
----
-![lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hgstyler&show_icons=true&hide_border=true&layout=compact)
+  - also interested in C#, Javascript, SQL, HTML
+
+   ![lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hgstyler&hide_title=true&show_icons=true&hide_border=true&layout=compact)
 <!--
 ![activity](https://github-readme-stats.vercel.app/api?username=hgstyler&show_icons=true&hide_border=true)
 ![lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hgstyler&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hgstyler)
