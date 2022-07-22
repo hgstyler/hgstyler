@@ -1,4 +1,4 @@
-### I'm integrating  
+### I'm integrating with ...  
 + Environmental Nanotechnology
   - Membrane Science, Catalytic Oxidation-Reduction, Micro & Meso-scale Adsorption
 + Characterization for R&D
