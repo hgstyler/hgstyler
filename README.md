@@ -3,9 +3,9 @@
   - Membrane Science, Catalytic Oxidation-Reduction, Micro & Meso-scale Adsorption
 + Characterization for R&D
   - Microscopy, Chromatography, Spectroscopy, X-ray
-+ Computer Science
-  - strongly related to C/C++, Python, Deep learning
-  - also interested in C#, Javascript, SQL, HTML
++ Computer Science / Programming Language
+  - strongly related to C/C++, Javascript, HTML, Python, Deep learning
+  - also interested in C#, SQL
 <!--
 ![lang stat](https://github-readme-stats.vercel.app/api/top-langs/?username=hgstyler&hide_title=true&show_icons=true&hide_border=true&layout=compact)
 ![activity](https://github-readme-stats.vercel.app/api?username=hgstyler&show_icons=true&hide_border=true)
