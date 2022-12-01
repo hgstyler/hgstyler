@@ -1,7 +1,7 @@
 ### I'm integrating with ...  
 + Environmental Nanotechnology
   - Membrane Science, Catalytic Oxidation-Reduction, Micro & Meso-scale Adsorption
-+ Characterization for R&D
++ Characterization in R&D
   - Microscopy, Chromatography, Spectroscopy, X-ray
 + Computer Science / Programming Language
   - strongly related to C/C++, Javascript, HTML, Python, Deep learning
